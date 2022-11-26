@@ -1,0 +1,257 @@
+id,target_class
+0,Acinetobacter baumani_121 skin
+1,Acinetobacter baumani_126
+2,Acinetobacter baumani_352 blood
+3,Acinetobacter baumani_377 blood
+4,Acinetobacter baumani_503 blood
+5,Acinetobacter baumani_63
+6,Acinetobacter baumani_64
+7,Acinetobacter baumani_73
+8,Acinetobacter baumani_74
+9,Pseudomonas aeruginosa_XXX
+10,Pseudomonas fluorescence_965
+11,Pseudomonas spp_467
+12,Staphilococcus aureus_1 949
+13,Staphilococcus aureus_1027 q
+14,Staphilococcus aureus_11 K817
+15,Staphilococcus aureus_12 K457
+16,Staphilococcus aureus_15
+17,Staphilococcus aureus_16
+18,Staphilococcus aureus_19 MRSA
+19,Staphilococcus aureus_3 1027
+20,Staphilococcus aureus_4 948
+21,Staphilococcus aureus_6 1006
+22,Staphilococcus aureus_7 941
+23,Staphilococcus aureus_8 942
+24,Staphilococcus aureus_9 963
+25,Staphilococcus aureus_K160
+26,Acinetobacter baumani_121 skin
+27,Acinetobacter baumani_126
+28,Acinetobacter baumani_352 blood
+29,Acinetobacter baumani_377 blood
+30,Acinetobacter baumani_503 blood
+31,Acinetobacter baumani_63
+32,Acinetobacter baumani_64
+33,Acinetobacter baumani_73
+34,Acinetobacter baumani_74
+35,Pseudomonas aeruginosa_XXX
+36,Pseudomonas fluorescence_965
+37,Pseudomonas spp_467
+38,Staphilococcus aureus_1 949
+39,Staphilococcus aureus_1027 q
+40,Staphilococcus aureus_11 K817
+41,Staphilococcus aureus_12 K457
+42,Staphilococcus aureus_15
+43,Staphilococcus aureus_16
+44,Staphilococcus aureus_19 MRSA
+45,Staphilococcus aureus_3 1027
+46,Staphilococcus aureus_4 948
+47,Staphilococcus aureus_6 1006
+48,Staphilococcus aureus_7 941
+49,Staphilococcus aureus_8 942
+50,Staphilococcus aureus_9 963
+51,Staphilococcus aureus_K160
+52,Acinetobacter baumani_121 skin
+53,Acinetobacter baumani_126
+54,Acinetobacter baumani_352 blood
+55,Acinetobacter baumani_377 blood
+56,Acinetobacter baumani_503 blood
+57,Acinetobacter baumani_63
+58,Acinetobacter baumani_64
+59,Acinetobacter baumani_73
+60,Acinetobacter baumani_74
+61,Pseudomonas aeruginosa_XXX
+62,Pseudomonas fluorescence_965
+63,Pseudomonas spp_467
+64,Staphilococcus aureus_1 949
+65,Staphilococcus aureus_1027 q
+66,Staphilococcus aureus_11 K817
+67,Staphilococcus aureus_12 K457
+68,Staphilococcus aureus_15
+69,Staphilococcus aureus_16
+70,Staphilococcus aureus_19 MRSA
+71,Staphilococcus aureus_3 1027
+72,Staphilococcus aureus_4 948
+73,Staphilococcus aureus_6 1006
+74,Staphilococcus aureus_7 941
+75,Staphilococcus aureus_8 942
+76,Staphilococcus aureus_9 963
+77,Staphilococcus aureus_K160
+78,Acinetobacter baumani_121 skin
+79,Acinetobacter baumani_126
+80,Acinetobacter baumani_352 blood
+81,Acinetobacter baumani_377 blood
+82,Acinetobacter baumani_503 blood
+83,Acinetobacter baumani_63
+84,Acinetobacter baumani_64
+85,Acinetobacter baumani_73
+86,Acinetobacter baumani_74
+87,Pseudomonas aeruginosa_XXX
+88,Pseudomonas fluorescence_965
+89,Pseudomonas spp_467
+90,Staphilococcus aureus_1 949
+91,Staphilococcus aureus_1027 q
+92,Staphilococcus aureus_11 K817
+93,Staphilococcus aureus_12 K457
+94,Staphilococcus aureus_15
+95,Staphilococcus aureus_16
+96,Staphilococcus aureus_19 MRSA
+97,Staphilococcus aureus_3 1027
+98,Staphilococcus aureus_4 948
+99,Staphilococcus aureus_3 1027
+100,Staphilococcus aureus_7 941
+101,Staphilococcus aureus_8 942
+102,Staphilococcus aureus_9 963
+103,Staphilococcus aureus_K160
+104,Acinetobacter baumani_121 skin
+105,Acinetobacter baumani_126
+106,Acinetobacter baumani_352 blood
+107,Acinetobacter baumani_377 blood
+108,Acinetobacter baumani_503 blood
+109,Acinetobacter baumani_63
+110,Acinetobacter baumani_64
+111,Acinetobacter baumani_73
+112,Acinetobacter baumani_74
+113,Pseudomonas aeruginosa_XXX
+114,Pseudomonas fluorescence_965
+115,Pseudomonas spp_467
+116,Staphilococcus aureus_1 949
+117,Staphilococcus aureus_1027 q
+118,Staphilococcus aureus_11 K817
+119,new
+120,Staphilococcus aureus_15
+121,Staphilococcus aureus_16
+122,Staphilococcus aureus_19 MRSA
+123,Staphilococcus aureus_3 1027
+124,Staphilococcus aureus_4 948
+125,Staphilococcus aureus_6 1006
+126,Staphilococcus aureus_7 941
+127,Staphilococcus aureus_8 942
+128,Staphilococcus aureus_9 963
+129,Staphilococcus aureus_K160
+130,Acinetobacter baumani_121 skin
+131,Acinetobacter baumani_126
+132,Acinetobacter baumani_352 blood
+133,Acinetobacter baumani_377 blood
+134,Acinetobacter baumani_503 blood
+135,Acinetobacter baumani_63
+136,Acinetobacter baumani_64
+137,Acinetobacter baumani_73
+138,Acinetobacter baumani_74
+139,Pseudomonas aeruginosa_XXX
+140,Pseudomonas fluorescence_965
+141,Pseudomonas spp_467
+142,Staphilococcus aureus_1 949
+143,Staphilococcus aureus_1027 q
+144,Staphilococcus aureus_11 K817
+145,Staphilococcus aureus_12 K457
+146,Staphilococcus aureus_15
+147,Staphilococcus aureus_16
+148,Staphilococcus aureus_19 MRSA
+149,Staphilococcus aureus_3 1027
+150,Staphilococcus aureus_4 948
+151,Staphilococcus aureus_6 1006
+152,Staphilococcus aureus_7 941
+153,Staphilococcus aureus_8 942
+154,Staphilococcus aureus_9 963
+155,Staphilococcus aureus_K160
+156,Acinetobacter baumani_121 skin
+157,Acinetobacter baumani_126
+158,Acinetobacter baumani_352 blood
+159,Acinetobacter baumani_377 blood
+160,Acinetobacter baumani_503 blood
+161,Acinetobacter baumani_63
+162,Acinetobacter baumani_64
+163,Acinetobacter baumani_73
+164,Acinetobacter baumani_74
+165,Pseudomonas aeruginosa_XXX
+166,Pseudomonas fluorescence_965
+167,Pseudomonas spp_467
+168,Staphilococcus aureus_1 949
+169,Staphilococcus aureus_1027 q
+170,Staphilococcus aureus_11 K817
+171,Staphilococcus aureus_12 K457
+172,Staphilococcus aureus_15
+173,Staphilococcus aureus_16
+174,Staphilococcus aureus_19 MRSA
+175,Staphilococcus aureus_3 1027
+176,Staphilococcus aureus_4 948
+177,Staphilococcus aureus_6 1006
+178,Staphilococcus aureus_7 941
+179,Staphilococcus aureus_8 942
+180,Staphilococcus aureus_9 963
+181,Staphilococcus aureus_K160
+182,Acinetobacter baumani_121 skin
+183,Acinetobacter baumani_126
+184,Acinetobacter baumani_352 blood
+185,Acinetobacter baumani_377 blood
+186,Acinetobacter baumani_503 blood
+187,Acinetobacter baumani_63
+188,Acinetobacter baumani_64
+189,Acinetobacter baumani_73
+190,Acinetobacter baumani_74
+191,Pseudomonas aeruginosa_XXX
+192,Pseudomonas fluorescence_965
+193,Pseudomonas spp_467
+194,Staphilococcus aureus_1 949
+195,Staphilococcus aureus_1027 q
+196,Staphilococcus aureus_11 K817
+197,Staphilococcus aureus_12 K457
+198,Staphilococcus aureus_15
+199,Staphilococcus aureus_16
+200,Staphilococcus aureus_19 MRSA
+201,Staphilococcus aureus_3 1027
+202,Staphilococcus aureus_4 948
+203,Staphilococcus aureus_6 1006
+204,Staphilococcus aureus_7 941
+205,Staphilococcus aureus_8 942
+206,Staphilococcus aureus_9 963
+207,Staphilococcus aureus_K160
+208,Acinetobacter baumani_121 skin
+209,Acinetobacter baumani_126
+210,Acinetobacter baumani_352 blood
+211,Acinetobacter baumani_377 blood
+212,Acinetobacter baumani_503 blood
+213,Acinetobacter baumani_63
+214,Acinetobacter baumani_121 skin
+215,Acinetobacter baumani_73
+216,Acinetobacter baumani_74
+217,Pseudomonas aeruginosa_XXX
+218,Pseudomonas fluorescence_965
+219,Staphilococcus aureus_1027 q
+220,Staphilococcus aureus_11 K817
+221,Staphilococcus aureus_12 K457
+222,Staphilococcus aureus_15
+223,Staphilococcus aureus_16
+224,Staphilococcus aureus_19 MRSA
+225,Staphilococcus aureus_4 948
+226,Staphilococcus aureus_6 1006
+227,Staphilococcus aureus_7 941
+228,Staphilococcus aureus_8 942
+229,Staphilococcus aureus_9 963
+230,Acinetobacter baumani_352 blood
+231,Acinetobacter baumani_377 blood
+232,Acinetobacter baumani_503 blood
+233,Acinetobacter baumani_64
+234,Acinetobacter baumani_73
+235,Acinetobacter baumani_74
+236,Pseudomonas aeruginosa_XXX
+237,Pseudomonas fluorescence_965
+238,Staphilococcus aureus_1027 q
+239,Staphilococcus aureus_11 K817
+240,Staphilococcus aureus_12 K457
+241,Staphilococcus aureus_15
+242,Staphilococcus aureus_19 MRSA
+243,Staphilococcus aureus_4 948
+244,Staphilococcus aureus_6 1006
+245,Staphilococcus aureus_9 963
+246,Acinetobacter baumani_377 blood
+247,Acinetobacter baumani_503 blood
+248,Acinetobacter baumani_64
+249,Acinetobacter baumani_74
+250,Pseudomonas aeruginosa_XXX
+251,Pseudomonas fluorescence_965
+252,Staphilococcus aureus_11 K817
+253,Staphilococcus aureus_12 K457
+254,Staphilococcus aureus_15
+255,Staphilococcus aureus_19 MRSA

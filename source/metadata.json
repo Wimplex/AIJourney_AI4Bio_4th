@@ -1,0 +1,4 @@
+{
+    "image": "cr.msk.sbercloud.ru/aijcontest2022_official/aij2022/bio:v1.0",
+    "entrypoint": "python3 solution.py"
+}
